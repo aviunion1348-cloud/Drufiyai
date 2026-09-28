@@ -1,0 +1,18 @@
+{
+  "name": "DrufiyAI Ultra Immersive Experience",
+  "version": "3.2.0",
+  "generated": "2026-09-28T14:08:05.814Z",
+  "commit": "4de6deb",
+  "requirements": "Node.js 18 or newer",
+  "start": "npm install && npm run dev",
+  "test": "npm test",
+  "routes": [
+    "/",
+    "/lear.html",
+    "/prash.html",
+    "/method.html",
+    "/principles.html",
+    "/signal-map.html"
+  ],
+  "note": "Images, films, and the Ogg font are loaded from documented remote URLs; no large media binaries are embedded."
+}
